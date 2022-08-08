@@ -1,4 +1,3 @@
-from fila_normal import filanormal
 from fila_prioritaria import FilaPrioritaria
 
 
